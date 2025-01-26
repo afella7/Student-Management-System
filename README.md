@@ -1,4 +1,4 @@
-#Student Management System
+# Student Management System
 
 A functional system for managing student data.
 
